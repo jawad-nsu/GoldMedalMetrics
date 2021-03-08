@@ -20,7 +20,7 @@ To view the webpage, run `npm run webpack` to compile the front-end files, and f
 
 ## Implementation Details
 
-To complete this project, you will need to write a series of JavaScript functions that return the SQL queries (as strings) that operate Gold Medal Metrics. The functions themselves are stubbed out in **sql.js** with comments about the query each should return. Below we list the different functions and the expected returned query.
+To complete this project, I have written a series of JavaScript functions that return the SQL queries (as strings) that operate Gold Medal Metrics. The functions themselves are stubbed out in **sql.js** with comments about the query each should return. Below we list the different functions and the expected returned query.
 
 ### Gold Medal Metric Functions
 
