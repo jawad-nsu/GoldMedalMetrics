@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project you will be writing all the SQL statements for an Olympic metrics reporting web application called Gold Medal Metrics.
+In this project I have written all the SQL statements for an Olympic metrics reporting web application called Gold Medal Metrics.
 
 Gold Medal Metrics allows users to:
 
